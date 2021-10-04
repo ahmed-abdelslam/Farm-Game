@@ -10,14 +10,16 @@ PASTE IT TO C:\Windows\System32
 
 THIS IS A SUMMARY OF HOW THE CODES WORK, IF YOU WANT A DETAILED INFORMATION,
 ============================================================================
-
-EVERY SINGLE LINE HAS A COMMENT THAT EXPLAIN IT\#
-
-######################################## 
-
 The project partitioned into 9 classes
-======================================
+============================================================================
 
+# Screenshots
+![alt text](https://github.com/ahmed-abdelslam/Farm-Game/blob/master/1.png)
+![alt text](https://github.com/ahmed-abdelslam/Farm-Game/blob/master/2.png)
+![alt text](https://github.com/ahmed-abdelslam/Farm-Game/blob/master/3.png)
+![alt text](https://github.com/ahmed-abdelslam/Farm-Game/blob/master/4.png)
+![alt text](https://github.com/ahmed-abdelslam/Farm-Game/blob/master/5.png)
+![alt text](https://github.com/ahmed-abdelslam/Farm-Game/blob/master/6.png)
 ######################################## 
 
 1- trainingGame Class:
